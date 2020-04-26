@@ -9,6 +9,7 @@ import SignIn from "./components/SignIn/SignIn";
 import Register from "./components/Register/Register";
 import "./App.css";
 
+// Background
 const particlesOptions = {
   particles: {
     number: {
